@@ -9,3 +9,8 @@
         $(<span class="hljs-string">'.dialog_infor'</span>).fadeOut().remove();
     },<span class="hljs-number">2000</span>);
 }</code></span></pre></div>
+
+infor_tck('您输入的密码不正确！');
+
+
+
